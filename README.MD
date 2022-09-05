@@ -1,7 +1,7 @@
 Hello GIT.
 
-Alterando esse arquivo.
-
-README do master
+README do master -linha alterada
 
 Oh nois aqui no master de novo
+
+Testando diff no master
